@@ -13,9 +13,9 @@ My FinTech consultancy firm, offers the tools that helps my members enhance thei
 ### Personal Finance Planner
 | Cryptos & Stock Values | Amount |
 | --- | --- |
-| Crypto Value   | $18,012.975 | 
-| Stocks Value   | 40,486.50   | 
-| TOTAL      |   | 58499.475   | 
+| Crypto Value   | $18,012.97| 
+| Stocks Value   | $40,486.50| 
+| TOTAL      |   | $58,499.47| 
 
 * **Congratulations for having enough money in this Fund!**
 
